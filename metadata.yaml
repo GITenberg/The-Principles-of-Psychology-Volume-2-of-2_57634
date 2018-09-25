@@ -1,5 +1,8 @@
 _repo: The-Principles-of-Psychology-Volume-2-of-2_57634
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57634-h/images/cover.jpg
 creator:
   author:
     agent_name: James, William
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/325
     wikipedia: http://en.wikipedia.org/wiki/William_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57634#The-Principles-of-Psychology-Volume-2-of-2
 gutenberg_issued: '2018-08-04'
 gutenberg_type: Text
 identifiers:
