@@ -1,0 +1,23 @@
+_repo: The-Principles-of-Psychology-Volume-2-of-2_57634
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+description: ''
+gutenberg_issued: '2018-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Principles of Psychology, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/57634
